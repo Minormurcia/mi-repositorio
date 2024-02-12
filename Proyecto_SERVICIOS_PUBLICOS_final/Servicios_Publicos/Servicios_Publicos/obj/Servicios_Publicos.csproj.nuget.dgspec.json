@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pensiones\\Desktop\\proyecto progra servicios publicos\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj": {}
+    "C:\\Users\\Pensiones\\OneDrive - Universidad Politécnica Internacional\\progra2\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pensiones\\Desktop\\proyecto progra servicios publicos\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj": {
+    "C:\\Users\\Pensiones\\OneDrive - Universidad Politécnica Internacional\\progra2\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pensiones\\Desktop\\proyecto progra servicios publicos\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj",
+        "projectUniqueName": "C:\\Users\\Pensiones\\OneDrive - Universidad Politécnica Internacional\\progra2\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj",
         "projectName": "Servicios_Publicos",
-        "projectPath": "C:\\Users\\Pensiones\\Desktop\\proyecto progra servicios publicos\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj",
+        "projectPath": "C:\\Users\\Pensiones\\OneDrive - Universidad Politécnica Internacional\\progra2\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\Servicios_Publicos.csproj",
         "packagesPath": "C:\\Users\\Pensiones\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pensiones\\Desktop\\proyecto progra servicios publicos\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\obj\\",
+        "outputPath": "C:\\Users\\Pensiones\\OneDrive - Universidad Politécnica Internacional\\progra2\\Proyecto_SERVICIOS_PUBLICOS_final\\Servicios_Publicos\\Servicios_Publicos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

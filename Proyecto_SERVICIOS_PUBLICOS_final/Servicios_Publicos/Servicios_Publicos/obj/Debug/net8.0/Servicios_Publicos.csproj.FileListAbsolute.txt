@@ -40,3 +40,18 @@ C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS
 C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
 C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
 C:\Users\Pensiones\Desktop\proyecto progra servicios publicos\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.exe
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.deps.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.runtimeconfig.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\bin\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfoInputs.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.AssemblyInfo.cs
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.csproj.CoreCompileInputs.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.sourcelink.json
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\refint\Servicios_Publicos.dll
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.pdb
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\Servicios_Publicos.genruntimeconfig.cache
+C:\Users\Pensiones\OneDrive - Universidad Politécnica Internacional\progra2\Proyecto_SERVICIOS_PUBLICOS_final\Servicios_Publicos\Servicios_Publicos\obj\Debug\net8.0\ref\Servicios_Publicos.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\bin\Debug\net6.0\Examen_progra_1.exe
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\bin\Debug\net6.0\Examen_progra_1.deps.json
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\bin\Debug\net6.0\Examen_progra_1.runtimeconfig.json
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\bin\Debug\net6.0\Examen_progra_1.dll
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\bin\Debug\net6.0\Examen_progra_1.pdb
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.AssemblyInfo.cs
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.dll
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\refint\Examen_progra_1.dll
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.pdb
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\Examen_progra_1.genruntimeconfig.cache
+C:\Users\pc\Desktop\progra 2\Examen_progra_1\Examen_progra_1\obj\Debug\net6.0\ref\Examen_progra_1.dll

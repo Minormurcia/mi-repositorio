@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|c:\\users\\pensiones\\onedrive - universidad polit\u00E9cnica internacional\\progra2\\futbolclubupi\\futbolclubupi\\jugador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|solutionrelative:futbolclubupi\\jugador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubupi\\entrenador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|solutionrelative:futbolclubupi\\entrenador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubupi\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|solutionrelative:futbolclubupi\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubupi\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8E8F0883-E04F-4322-B787-8C94F51A325F}|futbolclubUPI\\futbolclubUPI.csproj|solutionrelative:futbolclubupi\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\css\\estilo.css",
+              "RelativeDocumentMoniker": "futbolclubUPI\\css\\estilo.css",
+              "ToolTip": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\css\\estilo.css",
+              "RelativeToolTip": "futbolclubUPI\\css\\estilo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T16:27:48.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrenador.aspx",
+              "DocumentMoniker": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Entrenador.aspx",
+              "RelativeDocumentMoniker": "futbolclubUPI\\Entrenador.aspx",
+              "ToolTip": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Entrenador.aspx",
+              "RelativeToolTip": "futbolclubUPI\\Entrenador.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T22:01:39.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jugador.aspx",
+              "DocumentMoniker": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Jugador.aspx",
+              "RelativeDocumentMoniker": "futbolclubUPI\\Jugador.aspx",
+              "ToolTip": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Jugador.aspx",
+              "RelativeToolTip": "futbolclubUPI\\Jugador.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T22:01:24.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.aspx",
+              "DocumentMoniker": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Principal.aspx",
+              "RelativeDocumentMoniker": "futbolclubUPI\\Principal.aspx",
+              "ToolTip": "C:\\Users\\Pensiones\\OneDrive - Universidad Polit\u00E9cnica Internacional\\progra2\\futbolclubUPI\\futbolclubUPI\\Principal.aspx",
+              "RelativeToolTip": "futbolclubUPI\\Principal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T22:00:48.102Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
